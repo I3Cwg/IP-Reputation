@@ -202,6 +202,5 @@ def main():
         print("\nOperation cancelled by user.")
         return 1
 
-
 if __name__ == "__main__":
     sys.exit(main())
